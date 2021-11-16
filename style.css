@@ -1,0 +1,46 @@
+body{
+    background: url(./photo.jfif)no-repeat;
+    background-size: 100%;
+}
+button {
+    background-color: purple;
+    color: white;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+#name{
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+#center{
+    text-align: center;
+    width: 295px;
+    
+    padding: 54px;
+    margin: 17vh auto;
+    margin-left: 441px;
+    padding-block: 35px;
+    background: rgb(230, 229, 221);
+   
+    border-radius: 0px;
+}
+    
+
+.loginbtn
+{
+     padding:4px;
+     width: 120px;
+     height: 30px;
+}
+.cancelbtn
+{
+     padding:4px;
+     width: 120px;
+     height: 30px;
+}
